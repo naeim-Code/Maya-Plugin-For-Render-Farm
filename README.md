@@ -2,7 +2,7 @@
 The code I created for render farms works on Auto desk Maya. When your project is finished, you export it thanks to this plugin. The plugin examines your project and shows you if there is a problem after analyzing the rendering settings. For example, if you have not edited the format of the render output, it will give you an "output file" error and tell you that there is no render output. If there is no error, it exports the render engine settings you selected in the project, the tecture you used and similar things, and your project goes to its own file.
 
 # Which rendering engines does it examine?
-  . Vray
+  @ Vray
   . Arnold
   . Renderman
   . Redshift
